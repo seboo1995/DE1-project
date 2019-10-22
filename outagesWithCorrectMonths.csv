@@ -1,0 +1,507 @@
+,POWERPLANT_FULLNAME,Year,Month,count
+0,Bergkamen,2018,August,6
+1,Bergkamen,2018,December,6
+2,Bergkamen,2018,February,29
+3,Bergkamen,2018,January,2
+4,Bergkamen,2018,July,8
+5,Bergkamen,2018,June,2
+6,Bergkamen,2018,May,4
+7,Bergkamen,2018,March,14
+8,Bergkamen,2018,November,4
+9,Bergkamen,2018,October,3
+10,Bergkamen,2018,September,6
+11,Bergkamen,2018,April,9
+12,Bexbach,2018,August,1
+13,Bexbach,2018,July,2
+14,Bexbach,2018,September,1
+15,Bexbach,2018,April,1
+16,Datteln,2018,January,1
+17,Elverlingsen,2018,February,2
+18,Elverlingsen,2018,January,7
+19,Emsland,2018,August,19
+20,Emsland,2018,December,28
+21,Emsland,2018,February,29
+22,Emsland,2018,January,18
+23,Emsland,2018,July,21
+24,Emsland,2018,June,60
+25,Emsland,2018,May,27
+26,Emsland,2018,March,20
+27,Emsland,2018,November,11
+28,Emsland,2018,October,9
+29,Emsland,2018,September,13
+30,Emsland,2018,April,15
+31,Ensdorf,2018,January,1
+32,GKM AG Amprion,2018,August,14
+33,GKM AG Amprion,2018,December,7
+34,GKM AG Amprion,2018,February,2
+35,GKM AG Amprion,2018,January,7
+36,GKM AG Amprion,2018,July,2
+37,GKM AG Amprion,2018,June,8
+38,GKM AG Amprion,2018,May,15
+39,GKM AG Amprion,2018,March,3
+40,GKM AG Amprion,2018,November,3
+41,GKM AG Amprion,2018,October,12
+42,GKM AG Amprion,2018,September,6
+43,GKM AG Amprion,2018,April,4
+44,GTHKW Nossener Bruec,2018,August,3
+45,GTHKW Nossener Bruec,2018,July,1
+46,GTHKW Nossener Bruec,2018,June,2
+47,GTHKW Nossener Bruec,2018,May,2
+48,GTHKW Nossener Bruec,2018,October,1
+49,GTHKW Nossener Bruec,2018,September,3
+50,GTHKW Nossener Bruec,2018,April,3
+51,Gersteinwerk,2018,August,6
+52,Gersteinwerk,2018,December,8
+53,Gersteinwerk,2018,February,31
+54,Gersteinwerk,2018,January,28
+55,Gersteinwerk,2018,July,8
+56,Gersteinwerk,2018,June,6
+57,Gersteinwerk,2018,March,31
+58,Gersteinwerk,2018,November,20
+59,Gersteinwerk,2018,October,7
+60,Gersteinwerk,2018,September,12
+61,Gersteinwerk,2018,April,2
+62,GuD Dormagen,2018,December,2
+63,GuD Dormagen,2018,February,1
+64,GuD Dormagen,2018,January,3
+65,GuD Dormagen,2018,July,5
+66,GuD Dormagen,2018,June,2
+67,GuD Dormagen,2018,May,1
+68,GuD Dormagen,2018,March,7
+69,GuD Dormagen,2018,November,2
+70,GuD Dormagen,2018,October,3
+71,GuD Dormagen,2018,September,4
+72,GuD Dormagen,2018,April,4
+73,GuD Ludwigshafen Mit,2018,March,1
+74,GuD Ludwigshafen Mit,2018,September,1
+75,GuD Ludwigshafen Mit,2018,April,2
+76,GuD Ludwigshafen Süd,2018,December,1
+77,GuD Ludwigshafen Süd,2018,July,2
+78,GuD Ludwigshafen Süd,2018,June,1
+79,GuD Ludwigshafen Süd,2018,May,2
+80,GuD Ludwigshafen Süd,2018,March,1
+81,GuD Ludwigshafen Süd,2018,April,1
+82,Gundremmingen,2018,August,2
+83,Gundremmingen,2018,February,8
+84,Gundremmingen,2018,July,9
+85,Gundremmingen,2018,May,14
+86,Gundremmingen,2018,March,11
+87,Gundremmingen,2018,November,3
+88,Gundremmingen,2018,April,37
+89,HAMBORN-KW,2018,August,1
+90,HAMBORN-KW,2018,January,5
+91,HAMBORN-KW,2018,May,1
+92,HERDECKE,2018,August,2
+93,HERDECKE,2018,December,6
+94,HERDECKE,2018,February,6
+95,HERDECKE,2018,January,3
+96,HERDECKE,2018,July,4
+97,HERDECKE,2018,June,5
+98,HERDECKE,2018,March,7
+99,HERDECKE,2018,November,4
+100,HERDECKE,2018,October,3
+101,HERDECKE,2018,September,6
+102,HERDECKE,2018,April,2
+103,HKW Klingenberg,2018,January,3
+104,HKW Klingenberg,2018,July,1
+105,HKW Klingenberg,2018,June,1
+106,HKW Klingenberg,2018,May,3
+107,HKW Klingenberg,2018,March,2
+108,HKW Klingenberg,2018,November,1
+109,HKW Klingenberg,2018,October,17
+110,HKW Klingenberg,2018,September,3
+111,HKW Klingenberg,2018,April,14
+112,HKW Lichterfelde,2018,August,3
+113,HKW Lichterfelde,2018,February,18
+114,HKW Lichterfelde,2018,January,14
+115,HKW Lichterfelde,2018,July,8
+116,HKW Lichterfelde,2018,June,14
+117,HKW Lichterfelde,2018,March,21
+118,HKW Lichterfelde,2018,November,6
+119,HKW Lichterfelde,2018,October,4
+120,HKW Lichterfelde,2018,April,6
+121,HKW Mitte,2018,August,1
+122,HKW Mitte,2018,December,9
+123,HKW Mitte,2018,January,14
+124,HKW Mitte,2018,July,16
+125,HKW Mitte,2018,June,6
+126,HKW Mitte,2018,May,11
+127,HKW Mitte,2018,March,24
+128,HKW Mitte,2018,November,51
+129,HKW Mitte,2018,October,36
+130,HKW Mitte,2018,September,3
+131,HKW Mitte,2018,April,23
+132,HKW Moorburg,2018,August,18
+133,HKW Moorburg,2018,December,13
+134,HKW Moorburg,2018,February,17
+135,HKW Moorburg,2018,January,27
+136,HKW Moorburg,2018,July,18
+137,HKW Moorburg,2018,June,15
+138,HKW Moorburg,2018,May,24
+139,HKW Moorburg,2018,March,36
+140,HKW Moorburg,2018,November,20
+141,HKW Moorburg,2018,October,41
+142,HKW Moorburg,2018,September,22
+143,HKW Moorburg,2018,April,18
+144,HKW Nord,2018,January,1
+145,HKW Nord,2018,July,1
+146,HKW Reuter,2018,August,1
+147,HKW Reuter,2018,December,1
+148,HKW Reuter,2018,February,4
+149,HKW Reuter,2018,January,1
+150,HKW Reuter,2018,July,5
+151,HKW Reuter,2018,June,3
+152,HKW Reuter,2018,March,3
+153,HKW Reuter,2018,September,4
+154,HKW Reuter,2018,April,5
+155,HKW Reuter West,2018,August,6
+156,HKW Reuter West,2018,December,19
+157,HKW Reuter West,2018,February,2
+158,HKW Reuter West,2018,January,54
+159,HKW Reuter West,2018,July,9
+160,HKW Reuter West,2018,June,34
+161,HKW Reuter West,2018,May,4
+162,HKW Reuter West,2018,March,25
+163,HKW Reuter West,2018,November,21
+164,HKW Reuter West,2018,October,13
+165,HKW Reuter West,2018,September,5
+166,HKW Reuter West,2018,April,11
+167,HKW Tiefstack,2018,August,8
+168,HKW Tiefstack,2018,December,2
+169,HKW Tiefstack,2018,February,2
+170,HKW Tiefstack,2018,January,1
+171,HKW Tiefstack,2018,July,6
+172,HKW Tiefstack,2018,June,12
+173,HKW Tiefstack,2018,May,6
+174,HKW Tiefstack,2018,March,7
+175,HKW Tiefstack,2018,November,3
+176,HKW Tiefstack,2018,October,6
+177,HKW Tiefstack,2018,September,4
+178,HKW Tiefstack,2018,April,5
+179,HKW Wedel,2018,August,4
+180,HKW Wedel,2018,December,5
+181,HKW Wedel,2018,February,1
+182,HKW Wedel,2018,July,2
+183,HKW Wedel,2018,June,6
+184,HKW Wedel,2018,May,6
+185,HKW Wedel,2018,March,6
+186,HKW Wedel,2018,November,3
+187,HKW Wedel,2018,October,6
+188,HKW Wedel,2018,September,2
+189,HKW Wedel,2018,April,6
+190,Herne,2018,December,2
+191,Herne,2018,February,4
+192,Herne,2018,January,5
+193,Herne,2018,June,2
+194,Herne,2018,March,2
+195,Herne,2018,November,4
+196,Herne,2018,October,5
+197,Herne,2018,September,4
+198,Herne,2018,April,3
+199,Huckingen (HKM),2018,December,12
+200,Huckingen (HKM),2018,February,11
+201,Huckingen (HKM),2018,January,34
+202,Huckingen (HKM),2018,July,2
+203,Huckingen (HKM),2018,June,3
+204,Huckingen (HKM),2018,May,10
+205,Huckingen (HKM),2018,March,4
+206,Huckingen (HKM),2018,November,3
+207,Huckingen (HKM),2018,October,7
+208,Huckingen (HKM),2018,September,8
+209,Huckingen (HKM),2018,April,9
+210,Ibbenbüren,2018,August,7
+211,Ibbenbüren,2018,December,3
+212,Ibbenbüren,2018,February,7
+213,Ibbenbüren,2018,January,2
+214,Ibbenbüren,2018,July,3
+215,Ibbenbüren,2018,June,2
+216,Ibbenbüren,2018,May,2
+217,Ibbenbüren,2018,March,3
+218,Ibbenbüren,2018,November,3
+219,Ibbenbüren,2018,October,5
+220,Ibbenbüren,2018,September,4
+221,Ibbenbüren,2018,April,1
+222,KW Boxberg,2018,August,59
+223,KW Boxberg,2018,December,42
+224,KW Boxberg,2018,February,40
+225,KW Boxberg,2018,January,28
+226,KW Boxberg,2018,July,45
+227,KW Boxberg,2018,June,29
+228,KW Boxberg,2018,May,80
+229,KW Boxberg,2018,March,28
+230,KW Boxberg,2018,November,40
+231,KW Boxberg,2018,October,50
+232,KW Boxberg,2018,September,15
+233,KW Boxberg,2018,April,23
+234,KW Hamm-Uentrop,2018,August,2
+235,KW Hamm-Uentrop,2018,December,2
+236,KW Hamm-Uentrop,2018,February,1
+237,KW Hamm-Uentrop,2018,July,3
+238,KW Hamm-Uentrop,2018,May,4
+239,KW Hamm-Uentrop,2018,March,2
+240,KW Hamm-Uentrop,2018,November,5
+241,KW Hamm-Uentrop,2018,October,3
+242,KW Hamm-Uentrop,2018,September,4
+243,KW Jänschwalde,2018,August,56
+244,KW Jänschwalde,2018,December,39
+245,KW Jänschwalde,2018,February,53
+246,KW Jänschwalde,2018,January,102
+247,KW Jänschwalde,2018,July,62
+248,KW Jänschwalde,2018,June,53
+249,KW Jänschwalde,2018,May,69
+250,KW Jänschwalde,2018,March,51
+251,KW Jänschwalde,2018,November,21
+252,KW Jänschwalde,2018,October,45
+253,KW Jänschwalde,2018,September,49
+254,KW Jänschwalde,2018,April,53
+255,KW Lippendorf,2018,August,7
+256,KW Lippendorf,2018,December,14
+257,KW Lippendorf,2018,February,26
+258,KW Lippendorf,2018,January,12
+259,KW Lippendorf,2018,July,19
+260,KW Lippendorf,2018,June,7
+261,KW Lippendorf,2018,May,5
+262,KW Lippendorf,2018,March,17
+263,KW Lippendorf,2018,November,22
+264,KW Lippendorf,2018,October,19
+265,KW Lippendorf,2018,September,24
+266,KW Lippendorf,2018,April,11
+267,KW Lünen,2018,December,6
+268,KW Lünen,2018,January,1
+269,KW Lünen,2018,May,3
+270,KW Lünen,2018,March,4
+271,KW Lünen,2018,November,13
+272,KW Lünen,2018,October,2
+273,KW Lünen,2018,September,2
+274,KW Lünen,2018,April,3
+275,KW Mainz-Wiesbaden,2018,August,1
+276,KW Mainz-Wiesbaden,2018,December,2
+277,KW Mainz-Wiesbaden,2018,February,2
+278,KW Mainz-Wiesbaden,2018,January,4
+279,KW Mainz-Wiesbaden,2018,July,1
+280,KW Mainz-Wiesbaden,2018,November,3
+281,KW Mainz-Wiesbaden,2018,October,3
+282,KW Mainz-Wiesbaden,2018,September,2
+283,KW Mainz-Wiesbaden,2018,April,3
+284,KW Schwarze Pumpe,2018,August,24
+285,KW Schwarze Pumpe,2018,December,16
+286,KW Schwarze Pumpe,2018,February,25
+287,KW Schwarze Pumpe,2018,January,81
+288,KW Schwarze Pumpe,2018,July,17
+289,KW Schwarze Pumpe,2018,June,18
+290,KW Schwarze Pumpe,2018,May,99
+291,KW Schwarze Pumpe,2018,March,70
+292,KW Schwarze Pumpe,2018,November,24
+293,KW Schwarze Pumpe,2018,October,25
+294,KW Schwarze Pumpe,2018,September,60
+295,KW Schwarze Pumpe,2018,April,91
+296,Knapsack 1,2018,December,2
+297,Knapsack 1,2018,February,7
+298,Knapsack 1,2018,January,1
+299,Knapsack 1,2018,June,1
+300,Knapsack 1,2018,May,2
+301,Knapsack 1,2018,March,10
+302,Knapsack 1,2018,November,6
+303,Knapsack 1,2018,October,5
+304,Knapsack 1,2018,September,4
+305,Knapsack 2,2018,December,2
+306,Knapsack 2,2018,February,3
+307,Knapsack 2,2018,July,2
+308,Knapsack 2,2018,June,5
+309,Knapsack 2,2018,March,3
+310,Knapsack 2,2018,October,1
+311,Knapsack 2,2018,September,5
+312,Knapsack 2,2018,April,1
+313,Koepchenwerk,2018,February,1
+314,Koepchenwerk,2018,January,1
+315,Koepchenwerk,2018,June,2
+316,Koepchenwerk,2018,May,1
+317,Koepchenwerk,2018,March,1
+318,Koepchenwerk,2018,November,2
+319,Koepchenwerk,2018,October,1
+320,Koepchenwerk,2018,September,1
+321,Kraftwerk Ensdorf,2018,January,1
+322,Kraftwerk Lausward,2018,August,7
+323,Kraftwerk Lausward,2018,December,5
+324,Kraftwerk Lausward,2018,February,3
+325,Kraftwerk Lausward,2018,January,10
+326,Kraftwerk Lausward,2018,June,2
+327,Kraftwerk Lausward,2018,May,1
+328,Kraftwerk Lausward,2018,March,3
+329,Kraftwerk Lausward,2018,November,2
+330,Kraftwerk Lausward,2018,October,6
+331,Kraftwerk Lausward,2018,September,5
+332,Kraftwerk Lausward,2018,April,4
+333,Kraftwerk Rostock,2018,August,4
+334,Kraftwerk Rostock,2018,December,4
+335,Kraftwerk Rostock,2018,February,5
+336,Kraftwerk Rostock,2018,January,2
+337,Kraftwerk Rostock,2018,June,4
+338,Kraftwerk Rostock,2018,May,3
+339,Kraftwerk Rostock,2018,March,5
+340,Kraftwerk Rostock,2018,October,3
+341,Kraftwerk Rostock,2018,September,1
+342,Kraftwerk Rostock,2018,April,2
+343,Luenen,2018,August,21
+344,Luenen,2018,December,7
+345,Luenen,2018,February,53
+346,Luenen,2018,January,12
+347,Luenen,2018,July,8
+348,Luenen,2018,June,3
+349,Luenen,2018,May,5
+350,Luenen,2018,March,9
+351,Luenen,2018,November,40
+352,Luenen,2018,October,32
+353,Luenen,2018,September,52
+354,Luenen,2018,April,4
+355,Neurath,2018,August,27
+356,Neurath,2018,December,14
+357,Neurath,2018,February,28
+358,Neurath,2018,January,19
+359,Neurath,2018,July,27
+360,Neurath,2018,June,18
+361,Neurath,2018,May,30
+362,Neurath,2018,March,39
+363,Neurath,2018,November,48
+364,Neurath,2018,October,38
+365,Neurath,2018,September,35
+366,Neurath,2018,April,19
+367,Niederaußem,2018,August,22
+368,Niederaußem,2018,December,22
+369,Niederaußem,2018,February,19
+370,Niederaußem,2018,January,40
+371,Niederaußem,2018,July,24
+372,Niederaußem,2018,June,38
+373,Niederaußem,2018,May,108
+374,Niederaußem,2018,March,19
+375,Niederaußem,2018,November,28
+376,Niederaußem,2018,October,27
+377,Niederaußem,2018,September,56
+378,Niederaußem,2018,April,24
+379,PSW Goldisthal,2018,August,18
+380,PSW Goldisthal,2018,December,28
+381,PSW Goldisthal,2018,February,10
+382,PSW Goldisthal,2018,January,18
+383,PSW Goldisthal,2018,July,10
+384,PSW Goldisthal,2018,June,5
+385,PSW Goldisthal,2018,May,11
+386,PSW Goldisthal,2018,March,13
+387,PSW Goldisthal,2018,October,7
+388,PSW Goldisthal,2018,September,1
+389,PSW Goldisthal,2018,April,4
+390,PSW Markersbach,2018,August,23
+391,PSW Markersbach,2018,December,19
+392,PSW Markersbach,2018,February,7
+393,PSW Markersbach,2018,January,23
+394,PSW Markersbach,2018,July,30
+395,PSW Markersbach,2018,June,15
+396,PSW Markersbach,2018,May,27
+397,PSW Markersbach,2018,March,15
+398,PSW Markersbach,2018,November,37
+399,PSW Markersbach,2018,October,14
+400,PSW Markersbach,2018,September,19
+401,PSW Markersbach,2018,April,9
+402,RUHRORT-KW,2018,February,1
+403,RUHRORT-KW,2018,January,1
+404,RUHRORT-KW,2018,June,1
+405,RUHRORT-KW,2018,October,1
+406,Schkopau,2018,August,69
+407,Schkopau,2018,December,18
+408,Schkopau,2018,February,3
+409,Schkopau,2018,January,6
+410,Schkopau,2018,July,10
+411,Schkopau,2018,June,10
+412,Schkopau,2018,May,19
+413,Schkopau,2018,March,6
+414,Schkopau,2018,November,32
+415,Schkopau,2018,October,6
+416,Schkopau,2018,September,6
+417,Schkopau,2018,April,3
+418,Schluchsee,2018,August,1
+419,Schluchsee,2018,December,3
+420,Schluchsee,2018,February,12
+421,Schluchsee,2018,January,4
+422,Schluchsee,2018,July,9
+423,Schluchsee,2018,June,5
+424,Schluchsee,2018,May,9
+425,Schluchsee,2018,March,5
+426,Schluchsee,2018,November,4
+427,Schluchsee,2018,October,3
+428,Schluchsee,2018,September,3
+429,Schluchsee,2018,April,3
+430,Scholven,2018,August,22
+431,Scholven,2018,December,9
+432,Scholven,2018,February,16
+433,Scholven,2018,January,11
+434,Scholven,2018,July,7
+435,Scholven,2018,June,4
+436,Scholven,2018,May,4
+437,Scholven,2018,March,8
+438,Scholven,2018,November,16
+439,Scholven,2018,October,5
+440,Scholven,2018,September,2
+441,Scholven,2018,April,2
+442,Vianden,2018,August,21
+443,Vianden,2018,December,8
+444,Vianden,2018,February,23
+445,Vianden,2018,January,37
+446,Vianden,2018,July,47
+447,Vianden,2018,June,12
+448,Vianden,2018,May,41
+449,Vianden,2018,March,10
+450,Vianden,2018,November,24
+451,Vianden,2018,October,39
+452,Vianden,2018,September,54
+453,Vianden,2018,April,21
+454,Voelklingen,2018,August,17
+455,Voelklingen,2018,December,9
+456,Voelklingen,2018,February,6
+457,Voelklingen,2018,January,14
+458,Voelklingen,2018,July,8
+459,Voelklingen,2018,May,4
+460,Voelklingen,2018,March,9
+461,Voelklingen,2018,November,7
+462,Voelklingen,2018,October,14
+463,Voelklingen,2018,September,14
+464,Voelklingen,2018,April,4
+465,Walsum,2018,August,19
+466,Walsum,2018,December,12
+467,Walsum,2018,February,9
+468,Walsum,2018,January,2
+469,Walsum,2018,July,20
+470,Walsum,2018,June,10
+471,Walsum,2018,May,11
+472,Walsum,2018,March,13
+473,Walsum,2018,November,16
+474,Walsum,2018,October,7
+475,Walsum,2018,September,22
+476,Walsum,2018,April,9
+477,Weiher,2018,December,1
+478,Weiher,2018,February,2
+479,Weiher,2018,July,1
+480,Weiher,2018,November,1
+481,Weiher,2018,April,1
+482,Weisweiler,2018,August,16
+483,Weisweiler,2018,December,47
+484,Weisweiler,2018,February,38
+485,Weisweiler,2018,January,23
+486,Weisweiler,2018,July,18
+487,Weisweiler,2018,June,65
+488,Weisweiler,2018,May,26
+489,Weisweiler,2018,March,24
+490,Weisweiler,2018,November,35
+491,Weisweiler,2018,October,32
+492,Weisweiler,2018,September,25
+493,Weisweiler,2018,April,22
+494,Westfalen,2018,August,6
+495,Westfalen,2018,December,5
+496,Westfalen,2018,February,5
+497,Westfalen,2018,January,3
+498,Westfalen,2018,July,4
+499,Westfalen,2018,June,6
+500,Westfalen,2018,May,3
+501,Westfalen,2018,March,5
+502,Westfalen,2018,November,17
+503,Westfalen,2018,October,3
+504,Westfalen,2018,September,9
+505,Westfalen,2018,April,4
